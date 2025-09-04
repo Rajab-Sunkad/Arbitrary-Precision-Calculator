@@ -1,3 +1,10 @@
+/*Name: Rajab J sunkad
+Date: 20/11/2024
+Project: Arbitrary Precision Calculator
+Description: The Arbitrary Precision Calculator is a command-line application that can perform arithmetic operations on very large numbers
+             beyond the range of standard data types (like int, long, or double). It uses arrays/strings to represent numbers and 
+             implements custom algorithms for addition, subtraction, multiplication, and division.
+*/
 #include "apc.h"
 
 int main(int argc, char *argv[]) 
